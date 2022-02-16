@@ -1,0 +1,48 @@
+*body{
+    margin-top: 0;
+    padding: 0;
+
+}
+.container{
+    margin-left: 10%;
+    width: 800px;
+    height: 1100px ;
+    color: #000;
+    border-radius: 10px;
+    background-color: #2980b9;
+    font-weight: bold;
+    text-align:justify;
+}
+.container h2{
+    text-align: center;
+}
+.container h4{
+    margin-left: 20px;
+}
+.container h5{
+    margin-left: 20px;
+}
+.container h6{
+    margin-left: 20px;
+}
+.academic h3 {
+    text-align: center;
+}
+.container p{
+    margin-left: 20px;
+    font-size: 0.999em;
+}
+.academic h4 {
+    text-align: center;
+}
+.container img{
+    width: 250px;
+    height:150px;
+    /* float: right; */
+    border-radius: 15px;
+    margin-left: 12%;
+    margin-top: 15px;
+}
+.rodape{
+    margin-top: 450px;
+}
